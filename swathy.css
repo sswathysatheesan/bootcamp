@@ -1,0 +1,68 @@
+ 
+.container-fluid{
+    
+    background-color: rgb(226, 15, 138);
+    
+}
+
+h1{
+    font-size: 125px;
+    color: rgb(221, 51, 207);
+    font-family: monospace;
+}
+.p{
+    color: rgb(221, 51, 207);
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.lorem{
+    width: 720px;
+    height: auto;
+}
+
+.about{
+    background-color: rgb(24, 20, 21);
+}
+
+.h1_2{
+    color: rgb(221, 51, 207);
+    font-family: monospace;
+}
+.para2{
+    font-family: monospace;
+    color: rgb(221, 51, 207);
+}
+.team{
+    
+}
+
+.h1_3{
+    color: white;
+    font-family: monospace;
+}
+.areo{
+    border-radius: 50%;
+    width: 250px;
+}
+
+.gallery{
+    background-color: rgb(56, 43, 58);
+}
+
+.h1_4{
+    color: white;
+    font-family: monospace;
+}
+.speedy{
+    height: auto;
+    width: 440px;
+}
+
+.h1_5{
+    color: white;
+    font-family: monospace;
+}
+.input{
+    color: aquamarine;
+}
